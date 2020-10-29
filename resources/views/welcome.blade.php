@@ -25,7 +25,7 @@
         </style>
     </head>
     <body class="antialiased">
-        <livewire:foods></livewire:foods>
+        <livewire:users></livewire:users>
         
         @livewireScripts
     </body>
